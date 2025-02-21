@@ -3,7 +3,7 @@ let chatContainer = document.querySelector(".chat-container")
 let imagebtn = document.querySelector("#image")
 let imageinput = document.querySelector("#image input ")
 
-//const API_KEY = "AIzaSyDeLoV1gTPv0kAdbrguU5DPRE3qP8EMuM8"; // Replace with your real API key
+// Replace with your real API 
 const API_Url="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=API KEY"
 
 let user={
